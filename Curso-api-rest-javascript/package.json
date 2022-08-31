@@ -1,0 +1,22 @@
+{
+  "name": "curso-api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Curso Practico D e Consumo API REST Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brayan-g15/curso-api-rest-javascript-practico.git"
+  },
+  "author": "Brayan Gonzalez <b.sleider15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brayan-g15/curso-api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/Brayan-g15/curso-api-rest-javascript-practico#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
